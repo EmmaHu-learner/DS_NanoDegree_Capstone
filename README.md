@@ -52,7 +52,7 @@ Starbucks provided simulated data that mimics customer behavior on the Starbucks
 
 
 ### Deliveries
-Check out [Medium article](https://medium.com/p/4ac9ce83b636/edit) for this project
+Check out [Medium article](https://medium.com/@ywzqhy.816/starbucks-strategy-to-send-offers-4ac9ce83b636) for this project
 
 ### Acknowledgements
 This project was completed as part of the Udacity Data Science Nanodegree. The datasets used here were provided by Starbucks Coffee Company.
